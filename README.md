@@ -41,3 +41,5 @@ Ctrl+b => Pour ouvrir "l'outline"
 ,+t => recherche de fichier intélligente grace à [command-t](https://wincent.com/products/command-t) recherche de fichier style sublime text
 
 Ctrl+tab / Ctrl+shift+tab => tab suivante / précedente (ça boucle sur les tabs)
+
+Ctrl+s => sauvegarde du fichier
